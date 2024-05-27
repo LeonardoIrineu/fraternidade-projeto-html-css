@@ -45,8 +45,9 @@ header {
 }
 
 .logo img {
-    width: 4rem;
+    width: 6rem;
     cursor: default;
+    margin-left: 50px;
 }
 
 .nav a {
@@ -56,14 +57,20 @@ header {
 }
 
 section {
-    min-height: 100vh;
+    min-height: 70vh;
     padding: 6rem 6rem 2rem;
 
     
 }
 
+
+
 span {
-    color: var(--main-color);
+    color: #01ADEC;
+}
+
+.span1{
+   color:#2D3192 ; 
 }
 
 .home,
